@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2015\Projects\AssembleyLoader\AssembleyLoader\bin\Debug\AssembleyLoader.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\AssembleyLoader\AssembleyLoader\bin\Debug\AssembleyLoader.exe
+c:\users\admin\documents\visual studio 2015\Projects\AssembleyLoader\AssembleyLoader\bin\Debug\AssembleyLoader.pdb
+c:\users\admin\documents\visual studio 2015\Projects\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.exe
+c:\users\admin\documents\visual studio 2015\Projects\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.pdb
+D:\Лабы\5 семестр\spp\lab2\AssembleyLoader\AssembleyLoader\bin\Debug\AssembleyLoader.exe.config
+D:\Лабы\5 семестр\spp\lab2\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.exe
+D:\Лабы\5 семестр\spp\lab2\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.pdb
+D:\Лабы\5 семестр\6. СПП (с#)                       (5 из 9)     60%\lab2\AssembleyLoader\AssembleyLoader\bin\Debug\AssembleyLoader.exe.config
+D:\Лабы\5 семестр\6. СПП (с#)                       (5 из 9)     60%\lab2\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.exe
+D:\Лабы\5 семестр\6. СПП (с#)                       (5 из 9)     60%\lab2\AssembleyLoader\AssembleyLoader\obj\Debug\AssembleyLoader.pdb
